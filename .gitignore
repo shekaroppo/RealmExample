@@ -1,0 +1,15 @@
+/.gradle
+/local.properties
+/.apt_generated
+*.DS_Store
+/robooutput.txt
+.settings
+.idea
+**/*.iml
+**/.idea
+**/build
+
+
+
+
+
